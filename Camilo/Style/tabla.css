@@ -40,8 +40,9 @@ nav a:hover {
     text-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
 }
 
+/* El main un poco más ancho (950px) para acomodar bien las columnas de la tabla */
 main {
-    width: 850px;
+    width: 950px;
     margin: 40px auto;
 }
 
@@ -71,33 +72,60 @@ section h2 {
     font-size: 24px;
 }
 
-label {
-    display: block;
-    margin-top: 15px;
-    margin-bottom: 8px;
-    font-weight: bold;
-}
-
-input, textarea {
-    width: 100%;
-    padding: 12px;
-    border-radius: 6px;
+/* ESTILOS DE LA TABLA */
+table {
+    width: 100%; /* Ocupa todo el ancho de la caja */
+    border-collapse: collapse; /* Elimina dobles bordes en las celdas */
+    margin-bottom: 35px;
     font-size: 16px;
-
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden; /* Asegura que las esquinas sigan redondeadas */
 }
-/* Estilo al boton para enviar el formulario*/
-input[type=submit] {
-    margin-top: 20px;
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+/* Estilo para los encabezados de las columnas (azul oscuro, texto blanco) */
+th {
     background: #1E3A8A;
     color: white;
-    border: none;
-    cursor: pointer;
-    /* Cambia el mouse a una mano al tocar esto */
+    font-weight: 600;
 }
-/* Cambia el color del boton cuando se toca con el mouse */
-input[type=submit]:hover {
-    background: #0F172A;
-    /* Azul más oscuro al pasar el mouse */
+
+/* Línea sutil debajo de cada fila */
+tbody tr {
+    border-bottom: 1px solid #E2E8F0;
+}
+
+/* Colores intercalados para que la tabla sea más fácil de leer */
+tbody tr:nth-child(even) {
+    background: #F1F5F9;
+}
+
+/* Clases para alinear textos numéricos */
+.texto-derecha {
+    text-align: right;
+}
+
+.texto-centro {
+    text-align: center;
+}
+
+/* Resaltado para las filas de "Total" */
+.fila-total {
+    background-color: #E2E8F0;
+    font-weight: bold;
+    color: #0F172A;
+}
+
+/* Resaltado especial para el "Precio Final" */
+.precio-final {
+    background-color: #CBD5E1;
+    border-bottom: 2px solid #1E3A8A;
+    font-size: 18px;
 }
 
 footer {

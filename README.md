@@ -36,11 +36,11 @@
 35.-
 36.-
 37.-
-38.-
+38.-Camilo Mori
 39.- Sebastian Pereira
 40.-
 41.- Felipe Gutierrez
 42.-
 43.-
-44.- Camilo Mori
+44.- 
 45.- Profesora Liza Molina
