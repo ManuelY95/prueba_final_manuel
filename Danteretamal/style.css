@@ -79,3 +79,9 @@ h3 {
 #presentacion {
     width: 400px;
 }
+
+a{
+    color: aqua;
+    column-rule-color: aqua;
+}
+
