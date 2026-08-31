@@ -15,5 +15,3 @@ su contenido y funcionalidad. Asegúrate de seguir las buenas prácticas de
 codificación y mantener un estilo consistente en todo el proyecto.
 
 Esto es del proyecto de desarrollo web.
-
-ha
