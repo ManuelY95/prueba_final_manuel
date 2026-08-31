@@ -1,7 +1,8 @@
 # prueba_final
+
 1.- Evans Acuña
 2.-
-3.-
+3.-Dante Retamal
 4.-
 5.-
 6.-
@@ -36,7 +37,7 @@
 35.-
 36.-
 37.-
-38.-Camilo Mori
+38.- Camilo Mori
 39.- Sebastian Pereira
 40.-
 41.- Felipe Gutierrez
@@ -44,3 +45,4 @@
 43.-
 44.- 
 45.- Profesora Liza Molina
+
