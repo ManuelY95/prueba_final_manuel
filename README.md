@@ -1,5 +1,4 @@
-# prueba_final
-
+Lista de clases 
 1.- Evans Acuña
 2.-
 3.-Dante Retamal
@@ -34,7 +33,7 @@
 32.-
 33.-
 34.-
-35.-
+35.- Sebastian Gonzalez
 36.-
 37.-
 38.- Camilo Mori
@@ -44,5 +43,6 @@
 42.-
 43.-
 44.- 
-45.- Profesora Liza Molina
+45.-
+46.- Profesora Liza Molina
 
